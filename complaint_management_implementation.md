@@ -1,5 +1,4 @@
 # Implementation Guide: Complaint Management System with Chatbot Integration
-
 ## 1. Introduction
 This guide provides a step-by-step approach to implementing a Complaint Management System (CMS) with chatbot integration and automated ticket generation. We will use a Python-based backend with Flask, a PostgreSQL database, and Google Dialogflow for the chatbot. This combination offers a powerful and flexible platform for building a modern customer support system.
 
