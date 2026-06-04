@@ -1,7 +1,6 @@
 # Solution Design: Complaint Management System with Chatbot Integration & Ticket Support Generation
 ## 1. Introduction
 This section outlines the architectural design for a comprehensive Complaint Management System (CMS) that integrates a chatbot for initial customer interaction and automates ticket support generation. The goal is to streamline the complaint resolution process, improve customer satisfaction, and enhance operational efficiency. The design will cover the core functionalities, technology stack, and workflow for seamless operation.
-
 ## 2. Core Concepts and Technologies
 
 ### 2.1 Complaint Submission and Management
